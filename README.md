@@ -8,11 +8,19 @@
 
   ## Links
 
+  * [Exercise-Tracker Repo](https://github.com/skycode20/Exercise-Tracker)
+
   * [Exercise-Tracker Application](https://github.com/skycode20/Exercise-Tracker)
   
   ## Description    
 
-  You can track the list of your completed exercises. 
+  The Exercise Tracker is an application in which the user can track visually track the amount of exercise they do in a day. It also track this data using graphs for easy visual representations of the their progress. By adding the exercises completed it is shown on the main page of the app and then if the user want to see the graphs depicting the exercises in an easy to see view they can go to the dashboard for such data. 
+
+  My inspiration for this project was to develop an application that helps people understand that just doing exercise isn't enough. We have to see where we have started and how far we have come with physical fitness. Having an easy overview of how much exercise has been accomplished over a period of time is just a reminder of the dedication the user has to well-being. 
+
+  One of the challenges I've faced in this project was getting the MongoDB to store the exercises. It took some patience and some trial and error to achieve that and realizing that within my `exerciseModel.js` I needed to add more fields inside of the data schema to reflect the information being gathered. Another challenge was getting the total duration of the exercise to show on the main page of the application.  Taht problem also had to do with the fields inside of the data schema.
+
+  In the future I would like to add a way to edit the exercises completed and even be able to plan workouts for the day on the app. A checklist would be great to have with the list of exercises that are planned out so that the user can mark them as completed. 
 
   ## Table Of Contents    
 
