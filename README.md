@@ -10,7 +10,7 @@
 
   * [Exercise-Tracker Repo](https://github.com/skycode20/Exercise-Tracker)
 
-  * [Exercise-Tracker Application](https://github.com/skycode20/Exercise-Tracker)
+  * [Exercise-Tracker Application](https://exercise-tracker-sr.herokuapp.com/)
   
   ## Description    
 
